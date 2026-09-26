@@ -1,4 +1,4 @@
-# Bases-De-Datos-I-
+
 # Red Social Estudiantil Pascualina
 
 ## Integrantes del equipo
